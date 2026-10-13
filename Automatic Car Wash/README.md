@@ -39,6 +39,8 @@ The implementation uses six timer instances to coordinate the three zones and th
 
 The control program demonstrates how a process can be divided into functional stages and represented through readable ladder-logic networks.
 
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 205034" src="https://github.com/user-attachments/assets/d8e0999f-877f-4856-8e17-c7986d81d17f" />
+
 ## Verification Plan
 
 The intended validation cases are:
