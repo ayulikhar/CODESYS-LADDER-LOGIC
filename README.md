@@ -16,6 +16,9 @@ A collection of PLC automation projects developed using **CODESYS V3.5** and Lad
 - Ready and busy status indicators
 
 **Logic screenshots:**
+<img width="1917" height="1016" alt="Screenshot 2026-10-12 212528" src="https://github.com/user-attachments/assets/0ee572ec-c9a3-4d38-ab81-1b8d39822a59" />
+
+<img width="1917" height="1018" alt="Screenshot 2026-10-12 212627" src="https://github.com/user-attachments/assets/2317da60-0b9e-4990-85fa-90f0fe491daf" />
 
 
 ### 2. Automatic Traffic Light Control System
@@ -33,18 +36,23 @@ A collection of PLC automation projects developed using **CODESYS V3.5** and Lad
 
 <img width="1917" height="1021" alt="Screenshot 2026-10-12 204903" src="https://github.com/user-attachments/assets/3831d2f9-dfdc-4179-ac11-f054e2e8925d" />
 
-### 3. Automatic Bottle Filling System
+### 3. Automatic Car Wash System
 
-**Objective:** Develop a PLC program to automate bottle filling using a conveyor motor, proximity sensor, filling valve, timer, and counter.
+**Objective:** Develop a PLC-based automatic car wash system using Ladder Diagram (LD) in CODESYS.
 
 **Features**
-- Conveyor motor control
-- Bottle detection using a proximity sensor
-- Timed filling operation
-- Automatic conveyor restart after filling
-- Bottle counting with a target of 10 bottles
+- Start and stop control
+- Sequential car wash operations
+- Timer-based control of washing stages
+- Automated control of outputs such as water spray and cleaning mechanisms
+- Sequential operation of the car wash cycle
 
-**Logic screenshots:** Add screenshots of the ladder diagram in `Bottle-Filling-System/screenshots/`.
+  
+**Logic screenshots:** 
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 205034" src="https://github.com/user-attachments/assets/205f35b2-2b4e-4783-bb33-fe9d75221889" />
+<img width="1917" height="1018" alt="Screenshot 2026-10-12 205131" src="https://github.com/user-attachments/assets/d1bb49b5-f273-416d-8d5b-9d459bb18553" />
+
+
 
 ## Tools & Technologies
 
@@ -62,7 +70,7 @@ CODESYS-PLC-Projects/
 ├── README.md
 ├── Coffee-Tea-Vending/
 ├── Traffic-Light-Control/
-└── Bottle-Filling-System/
+└── Automatic Car Wash/
 ```
 
 ## How to Use
