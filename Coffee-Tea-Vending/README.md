@@ -33,6 +33,7 @@ The program uses normally open and normally closed contacts, Boolean coils, inte
 
 This structure offers a practical introduction to discrete-event control and the separation of operator commands from process outputs.
 
+<img width="1917" height="1017" alt="Screenshot 2026-10-12 212615" src="https://github.com/user-attachments/assets/ccd149ef-8cc9-4db4-85e5-6cad5f1988ef" />
 ## Verification
 
 The intended validation cases are:
