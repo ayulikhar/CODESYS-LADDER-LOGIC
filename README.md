@@ -16,6 +16,7 @@ A collection of PLC automation projects developed using **CODESYS V3.5** and Lad
 - Ready and busy status indicators
 
 **Logic screenshots:**
+
 <img width="1917" height="1016" alt="Screenshot 2026-10-12 212528" src="https://github.com/user-attachments/assets/0ee572ec-c9a3-4d38-ab81-1b8d39822a59" />
 
 <img width="1917" height="1018" alt="Screenshot 2026-10-12 212627" src="https://github.com/user-attachments/assets/2317da60-0b9e-4990-85fa-90f0fe491daf" />
@@ -49,6 +50,7 @@ A collection of PLC automation projects developed using **CODESYS V3.5** and Lad
 
   
 **Logic screenshots:** 
+
 <img width="1917" height="1017" alt="Screenshot 2026-10-12 205034" src="https://github.com/user-attachments/assets/205f35b2-2b4e-4783-bb33-fe9d75221889" />
 <img width="1917" height="1018" alt="Screenshot 2026-10-12 205131" src="https://github.com/user-attachments/assets/d1bb49b5-f273-416d-8d5b-9d459bb18553" />
 
