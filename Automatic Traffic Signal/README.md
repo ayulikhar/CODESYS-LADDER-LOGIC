@@ -36,6 +36,8 @@ Normally open and normally closed contacts use timer outputs to determine signal
 
 The implementation provides a practical exercise in cascading timers, evaluating Boolean conditions, and tracing control behavior during runtime execution.
 
+<img width="1062" height="697" alt="Screenshot 2026-10-12 200037" src="https://github.com/user-attachments/assets/a57c01c2-ee18-4c25-b49a-ed8dc91c7ad9" />
+
 ## Engineering Considerations
 
 A reliable traffic controller must address more than timer completion. Each phase must reset correctly, the next phase must start deterministically, and the output logic must prevent conflicting green signals.
